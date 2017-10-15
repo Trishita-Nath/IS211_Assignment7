@@ -1,0 +1,10 @@
+######	ASSIGNMENT 7 ######
+
+To run the program with multiple players, in command prompt --numPlayers parameter has to be passed like shown below.If --numPlayers is not passed then by default game is set for 2 players.
+
+ 3 players game ---> python assignment7.py --numPlayers 3
+
+ Once a player wins the game the scores are displayed and user is displayed with option to close the application or play another game. User has to enter 'Y' for another game and 'N' to close the game application.
+ 
+
+
